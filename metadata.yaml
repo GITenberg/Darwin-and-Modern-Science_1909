@@ -1,0 +1,29 @@
+_repo: Darwin-and-Modern-Science_1909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seward, A. C. (Albert Charles)
+    alias: Seward, Albert Charles, Sir
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '749'
+    url: http://www.gutenberg.org/2009/agents/749
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Charles_Seward
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darwin, Charles, 1809-1882'
+- !lcsh 'Science -- History'
+- !lcsh 'Evolution (Biology)'
+- !lcc 'QH'
+- GITenberg
+title: Darwin and Modern Science
+url: http://www.gutenberg.org/ebooks/1909
